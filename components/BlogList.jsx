@@ -1,4 +1,4 @@
-import { blog_data } from "@/Assets/assets";
+import { blog_data } from "../Assets/assets";
 import React, { useState } from "react";
 import BlogItem from "./BlogItem";
 
